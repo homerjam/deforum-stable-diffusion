@@ -1,6 +1,110 @@
 model:
   base_learning_rate: 1.0e-04
-  target: ldm.models.diffusion.ddpm.LatentDiffusion
+  Domain Name	TTL	Address
+A	Gmail.com	300	
+142.250.185.101
+
+Owner: Google LLC  | WHOIS | AS15169
+
+IP is Blocked By zen.spamhaus.org | More
+
+AAAA 
+Type	Domain Name	TTL	Address
+AAAA	Gmail.com	300	
+2a00:1450:4001:80f::2005
+
+Owner: EU Metro Frontend  | WHOIS | AS15169
+
+IP is Blocked By zen.spamhaus.org | More
+
+CNAME
+Record Not Found
+MX 
+Type	Domain Name	TTL	Preference	Address
+MX	Gmail.com	2381	5	
+gmail-smtp-in.l.google.com. (108.177.126.27)
+
+Owner: Google LLC  | WHOIS | AS15169
+
+IP is Blocked By zen.spamhaus.org | More
+
+MX	Gmail.com	2381	30	
+alt3.gmail-smtp-in.l.google.com. (142.250.157.27)
+
+Owner: Google LLC  | WHOIS | AS15169
+
+IP is Blocked By xbl.spamhaus.org | More
+
+MX	Gmail.com	2381	20	
+alt2.gmail-smtp-in.l.google.com. (74.125.200.26)
+
+Owner: Google LLC  | WHOIS | AS15169
+
+IP is Blocked By zen.spamhaus.org | More
+
+MX	Gmail.com	2381	40	
+alt4.gmail-smtp-in.l.google.com. (173.194.202.26)
+
+Owner: Google LLC  | WHOIS | AS15169
+
+IP is Blocked By zen.spamhaus.org | More
+
+MX	Gmail.com	2381	10	
+alt1.gmail-smtp-in.l.google.com. (142.250.150.27)
+
+Owner: Google LLC  | WHOIS | AS15169
+
+IP is Blocked By sbl.spamhaus.org | More
+
+NS 
+Type	Domain Name	TTL	Canonical Name
+NS	Gmail.com	21600	
+ns2.google.com. (216.239.34.10)
+
+Owner: Google LLC  | WHOIS | AS15169
+
+IP is Blocked By zen.spamhaus.org | More
+
+NS	Gmail.com	21600	
+ns4.google.com. (216.239.38.10)
+
+Owner: Google LLC  | WHOIS | AS15169
+
+IP is Blocked By zen.spamhaus.org | More
+
+NS	Gmail.com	21600	
+ns1.google.com. (216.239.32.10)
+
+Owner: Google LLC  | WHOIS | AS15169
+
+IP is Blocked By sbl.spamhaus.org | More
+
+NS	Gmail.com	21600	
+ns3.google.com. (216.239.36.10)
+
+Owner: Google LLC  | WHOIS | AS15169
+
+IP is Blocked By sbl.spamhaus.org | More
+
+PTR
+Record Not Found
+SRV
+Record Not Found
+SOA 
+Type	Domain Name	TTL	Primary NS	Responsible Email
+SOA	Gmail.com	60	ns1.google.com.	dns-admin.google.com.
+TXT 
+Type	Domain Name	TTL	Record
+TXT	Gmail.com	300	v=spf1 redirect=_spf.google.com
+TXT	Gmail.com	300	globalsign-smime-dv=CDYX+XFHUw2wml6/Gb8+59BsH31KzUr6c1l2BPvqKX8=
+CAA 
+Type	Domain Name	TTL	Record
+CAA	Gmail.com	21600	0 issue pki.goog
+DS
+Record Not Found
+DNSKEY
+Record Not Found
+ ldm.models.diffusion.ddpm.LatentDiffusion
   params:
     linear_start: 0.00085
     linear_end: 0.0120
