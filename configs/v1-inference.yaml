@@ -1,7 +1,8 @@
 model:
   base_learning_rate: 1.0e-04
   target: ldm.models.diffusion.ddpm.LatentDiffusion
-  params:
+  media-lga3-2.cdn.whatsapp.net
+whatsapp-cdn-shv-02-lga3.fbcdn.net
     linear_start: 0.00085
     linear_end: 0.0120
     num_timesteps_cond: 1
