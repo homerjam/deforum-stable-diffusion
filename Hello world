@@ -1,0 +1,57 @@
+google.com/v3/signin/rejected?continue=https://mail.google.com/mail/u/0/&dsh=S-251032309:1691809863375641&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https://mail.google.com/mail/u/0/&ifkv=AXo7B7VWVK3WMdMxB_pfVgaDQHiqZQI5eIMP8qW5EDt14gjQycBy0jxwRQ05daAKvS3Ye_YbOIjBtw&osid=1&rhlk=js&rrk=47&service=mail
+Serving IP Address
+64.233.191.
+X-XSS-Protection	
+0
+Permissions-Policy	
+ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factor=*, ch-ua-platform=*, ch-ua-platform-version=*
+Content-Security-Policy	
+require-trusted-types-for 'script';report-uri /v3/signin/_/AccountsSignInUi/cspreport, script-src 'report-sample' 'nonce-j118A9bvwGKZ7uvDGl-DkA' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /v3/signin/_/AccountsSignInUi/cspreport;worker-src 'self', script-src 'unsafe-inline' 'self' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.googletagmanager.com https://www.gstatic.com https://www.google-analytics.com;report-uri /v3/signin/_/AccountsSignInUi/cspreport/allowlist
+Transfer-Encoding	
+chunked
+Strict-Transport-Security	
+max-age=31536000; includeSubDomains
+Server	
+ESF
+Report-To	
+{"group":"AccountsSignInUi","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/AccountsSignInUi"}]}
+X-Frame-Options	
+DENY
+Expires	
+Mon, 01 Jan 1990 00:00:00 GMT
+Cross-Origin-Opener-Policy-Report-Only	
+same-origin; report-to="AccountsSignInUi"
+X-Content-Type-Options	
+Looking at lists
+Turn the following list of my favorite vegetables into an unordered list.
+
+Cucumber Broccoli Asparagus Pepper
+Turn the following directions into an ordered list.
+
+First knock on the door When prompted, say the magic word Wait for at least 5 seconds Turn the handle and push
+Content-Encoding	
+gzip
+Cross-Origin-Resource-Policy	
+same-site
+Vary	
+Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+Accept-CH	
+Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factor, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+Pragma	
+no-cache
+Cache-Control	
+no-cache, no-store, max-age=0, must-revalidate
+Date	
+Sat, 12 Aug 2023 03:11:03 GMT
+Alt-Svc	
+h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Content-Type	
+text/html; charset=utf-8
+x-ua-compatible	
+IE=edge
+Status Code
+200
+Body Length
+486.77 KB
+Body SHA-256
+32c5214616b3cf20cce45758267ed2aaf802bc48afec7786725f1d4db3f5a417
